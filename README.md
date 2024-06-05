@@ -7,3 +7,5 @@
     * ### Развитие компьютерной архитектуры (История покленый компьютеров P.S конспект не делал)
     * ### [Типы компьютеров](https://github.com/S5477/computer_architecture/blob/main/ch1/типы_компьютеров.md).
     * ### [Семейства компьютеров](https://github.com/S5477/computer_architecture/blob/main/ch1/семейства_компьютеров.md).
++ ## 2 глава: Организация компьютерных систем
+    * ### [Процессоры](https://github.com/S5477/computer_architecture/blob/main/ch2/процессоры.md).
